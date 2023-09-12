@@ -1,0 +1,2 @@
+C:\Users\mralo\OneDrive\Desktop\Asteroid\Asteroid\Debug\ASSETS\FONTS\ariblk.ttf
+C:\Users\mralo\OneDrive\Desktop\Asteroid\Asteroid\Debug\ASSETS\IMAGES\SFML-LOGO.png
